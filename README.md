@@ -1,2 +1,4 @@
 # Cybersecurity-Homelab
-uploding soon!
+
+Cybersecurity home lab project — **coming soon!**
+
